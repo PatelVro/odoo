@@ -25,6 +25,6 @@ Includes:
         'views/channel_menus.xml',
     ],
     'installable': True,
-    'application': False,
+    'application': True,
     'license': 'LGPL-3',
 }
